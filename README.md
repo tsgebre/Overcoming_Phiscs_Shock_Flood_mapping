@@ -42,11 +42,12 @@ python inference_ensemble.py --checkpoint_dir ./checkpoints/ --output_dir ./resu
 ## Citation
 If you find this code useful, please cite our paper:
 ```bibtex
-@article{gebre2024physics,
-  title={Overcoming 'Physics Shock' in Earth Observation: A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference},
-  author={Gebre, Tewodros Syum and Talreja, Jagrati and Hashemi-Beni, Leila},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+@article{gebre2026overcoming,
+  title={Overcoming" Physics Shock" in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference},
+  author={Gebre, Tewodros Syum and Talreja, Jagrati and Anokye, Matilda and Hashemi-Beni, Leila},
+  journal={arXiv preprint arXiv:2605.24106},
   year={2026}
+}
 }
 ```
 ```
